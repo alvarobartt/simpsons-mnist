@@ -1,9 +1,9 @@
-# Simpsons-MNIST
+--block-size=1G# Simpsons-MNIST
 
 ---
 
 `Simpsons-MNIST` is a small dataset of The Simpsons characters - consisting of a training set of 8,000 examples
-and a test set of 1,500 examples. Each example is a 28x28 RGB image, associated with a label from 10 classes.
+and a test set of 2,000 examples. Each example is a 28x28 RGB image, associated with a label from 10 classes.
 This is a __small MNIST__ as it does not contain 60,000 training and 10,000 testing examples, since there's not 
 that much data in the original dataset. Anyway, this MNIST is intended to be used with __educational purposes__
 as it is small which means that you can train a neural network using this dataset from almost any computer, and
@@ -22,6 +22,21 @@ Here's an example on how the data looks:
 ## About the data
 
 bla bla bla
+
+RGB
+
+| Set | Size (in MB) | \# Images | Download URL
+|-----|--------------|-----------|------
+| Train | 12 | 8,000 | [RGB Train]()
+| Test | 3 | 2,000 | [RGB Test]()
+
+Grayscale
+
+| Set | Size (in MB) | \# Images | Download URL
+|-----|--------------|-----------|------
+| Train | 8 | 8,000 | [Grayscale Train]()
+| Test | 2 | 2,00 | [Grayscale Test]()
+
 
 ---
 
