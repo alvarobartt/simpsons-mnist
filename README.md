@@ -17,9 +17,13 @@ more created by the open source community.
 
 Here's an example on how the data looks in RGB format:
 
+,bbox_inches='tight'
+
 ![](utils/rgb-overview.jpg)
 
 Here's an example on how the data looks in grayscale format:
+
+,bbox_inches='tight'
 
 ![](utils/grayscale-overview.jpg)
 
