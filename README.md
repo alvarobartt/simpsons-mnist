@@ -1,4 +1,4 @@
---block-size=1G# Simpsons-MNIST
+# Simpsons-MNIST
 
 ---
 
