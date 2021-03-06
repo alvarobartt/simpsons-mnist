@@ -16,13 +16,13 @@ more created by the open source community.
 Here's an example on how the data looks in RGB format:
 
 <p align="center">
-  <img width="460" height="300" src="utils/images/rgb-overview.jpg">
+  <img width="500" height="500" src="utils/images/rgb-overview.jpg">
 </p>
 
 Here's an example on how the data looks in grayscale format:
 
 <p align="center">
-  <img width="460" height="300" src="utils/images/grayscale-overview.jpg">
+  <img width="500" height="500" src="utils/images/grayscale-overview.jpg">
 </p>
 
 ---
