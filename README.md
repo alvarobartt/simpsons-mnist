@@ -16,13 +16,13 @@ more created by the open source community.
 Here's an example on how the data looks in RGB format:
 
 <p align="center">
-  <img width="500" height="500" src="utils/images/rgb-overview.jpg">
+  <img width="300" height="300" src="utils/images/rgb-overview.jpg">
 </p>
 
 Here's an example on how the data looks in grayscale format:
 
 <p align="center">
-  <img width="500" height="500" src="utils/images/grayscale-overview.jpg">
+  <img width="300" height="300" src="utils/images/grayscale-overview.jpg">
 </p>
 
 ---
@@ -33,15 +33,15 @@ RGB
 
 |   Set | Size | \# Images | Download URL
 |-------|------|-----------|--------------
-| Train | 12MB |     8,000 | [RGB Train]()
-|  Test |  3MB |     2,000 | [RGB Test]()
+| Train | 12MB |     8,000 | [RGB Train](https://www.dropbox.com/s/as1q6851qgm7zif/rgb-train.zip)
+|  Test |  3MB |     2,000 | [RGB Test](https://www.dropbox.com/s/orz1uxkpxzevpkk/rgb-test.zip)
 
 Grayscale
 
 |   Set | Size | \# Images |     Download URL
 |-------|------|-----------|------------------
-| Train |  8MB |     8,000 | [Grayscale Train]()
-|  Test |  2MB |     2,000 | [Grayscale Test]()
+| Train |  8MB |     8,000 | [Grayscale Train](https://www.dropbox.com/s/6s3wh1err59j01j/grayscale-train.zip)
+|  Test |  2MB |     2,000 | [Grayscale Test](https://www.dropbox.com/s/nuhkoxqlaxrxa5o/grayscale-test.zip)
 
 ---
 
