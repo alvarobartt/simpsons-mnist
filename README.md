@@ -69,6 +69,13 @@ Here you have some examples on how to load the data (both RGB and grayscale):
 
 ---
 
+## License
+
+The License of this dataset is `Attribution-NonCommercial-ShareAlike 4.0 International`, which is the same one 
+as the one in the original dataset, so this is an inherited license.
+
+---
+
 ## Credits
 
 The original dataset of The Simpsons Characters was created by [Alexandre Attia](https://github.com/alexattia) in the
