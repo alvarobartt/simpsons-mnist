@@ -39,7 +39,7 @@ And, the grayscaled dataset contains the following information:
 
 And the labels for both datasets are the following ones:
 
-```json
+```
 {
   0: "bart_simpson",
   1: "charles_montgomery_burns",
