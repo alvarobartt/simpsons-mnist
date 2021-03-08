@@ -13,7 +13,7 @@ and the other derivate MNIST-like dataset as: [Zalando's Fashion-MNIST](https://
 [ROIS-DS Center for Open Data in the Humanities Kuzushiji-MNIST](https://github.com/rois-codh/kmnist), and some
 more created by the open source community.
 
-Here's an example on how the data looks lke:
+Here's an example on how the data looks like:
 
 RGB | Grayscaled
 :--:|:----------:
