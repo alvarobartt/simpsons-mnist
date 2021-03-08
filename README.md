@@ -15,9 +15,9 @@ more created by the open source community.
 
 Here's an example on how the data looks lke:
 
- RGB | Grayscaled
-:---:|:----------:
-![](utils/images/rgb-overview.jpg) | ![](utils/images/grayscale-overview.jpg)
+RGB | Grayscaled
+:--:|:----------:
+<img src="utils/images/rgb-overview.jpg" width="500"/> | <img src="utils/images/grayscale-overview.jpg" width="500"/>
 
 ---
 
