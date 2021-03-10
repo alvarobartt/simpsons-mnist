@@ -1,6 +1,6 @@
 # Simpsons-MNIST
 
-`Simpsons-MNIST` is a small dataset of The Simpsons characters - consisting of a training set of 8,000 examples
+`Simpsons-MNIST` is a small dataset of The Simpsons characters consisting of a training set of 8,000 examples
 and a test set of 2,000 examples. Each example is a 28x28 RGB/grayscale image, associated with a label from 10 classes.
 This is a __small MNIST__ as it does not contain 60,000 training and 10,000 testing examples, since there's not 
 that much data in the original dataset. This dataset is available in both formats, RGB and grayscale, in RGB as
@@ -13,11 +13,11 @@ and the other derivate MNIST-like dataset as: [Zalando's Fashion-MNIST](https://
 [ROIS-DS Center for Open Data in the Humanities Kuzushiji-MNIST](https://github.com/rois-codh/kmnist), and some
 more created by the open source community.
 
-Here's an example on how the data looks lke:
+Here's an example on how the data looks like:
 
- RGB | Grayscaled
-:---:|:----------:
-![](utils/images/rgb-overview.jpg) | ![](utils/images/grayscale-overview.jpg)
+RGB | Grayscaled
+:--:|:----------:
+<img src="utils/images/rgb-overview.jpg" width="500"/> | <img src="utils/images/grayscale-overview.jpg" width="500"/>
 
 ---
 
@@ -39,18 +39,18 @@ And, the grayscaled dataset contains the following information:
 
 And the labels for both datasets are the following ones:
 
-```json
+```
 {
-  "bart_simpson": 0,
-  "charles_montgomery_burns": 1,
-  "homer_simpson": 2,
-  "krusty_the_clown": 3,
-  "lisa_simpson": 4,
-  "marge_simpson": 5,
-  "milhouse_van_houten": 6,
-  "moe_szyslak": 7,
-  "ned_flanders": 8,
-  "principal_skinner": 9
+  0: "bart_simpson",
+  1: "charles_montgomery_burns",
+  2: "homer_simpson",
+  3: "krusty_the_clown",
+  4: "lisa_simpson",
+  5: "marge_simpson",
+  6: "milhouse_van_houten",
+  7: "moe_szyslak",
+  8: "ned_flanders",
+  9: "principal_skinner"
 }
 ```
 
@@ -63,9 +63,9 @@ directory. To do so you just need to: `git clone git@github.com:alvarobartt/simp
 
 Here you have some examples on how to load the data (both RGB and grayscale):
 
-- [Load the data with TensorFlow](examples/tensorflow/)
+- [Load the data with TensorFlow - (WIP)](examples/tensorflow/)
 - [Load the data with PyTorch](examples/pytorch/)
-- [Load the data with PyTorch Lightning](examples/pytorch_lightning/)
+- [Load the data with PyTorch Lightning - (WIP)](examples/pytorch_lightning/)
 
 ---
 
